@@ -1,0 +1,132 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* <-- Cart --> */
+
+.main-container{
+    margin-top: 100px;
+    border-radius:8px;
+    margin-bottom: 100px;
+
+
+}
+.row{
+   justify-content:space-around;
+   border-radius:10px;
+}
+.items-in-cart{
+    margin:5px;
+}
+.item-col-1{
+    background: lightgrey;
+    text-align:center;
+    font-weight:bold;
+    border-radius:6px;
+    padding:8px 0px 8px 0px;
+}
+.counter{
+    font-weight: bold;
+    border:none;
+    border-radius: 6px;
+    background:rgb(192, 202, 51);
+}
+input{
+    border-radius: 6px;
+    width: 125px;
+    margin: 13px 0px 0px 0px;
+}
+span{
+    text-align:center;
+}
+.col-4{
+
+}
+.summary{
+    border: 1px solid grey;
+    border-radius:7px;
+    margin:5px;
+
+}
+.summary-col-1{
+    background: lightgrey;
+    text-align:center;
+    font-weight:bold;
+    border-radius:6px;
+    padding:8px 0px 8px 0px;
+
+}
+.float-start{
+    margin:8px 0px 8px 8px;
+}
+.float-end{
+   margin:8px 8px 8px 0px;
+}
+.submit-btn{
+    background:rgb(192, 202, 51);
+    margin: 50px 0px 0px 80px;
+    padding:5px 10px 5px 10px;
+    font-weight: bold;
+    border:none;
+    border-radius: 6px;
+}
+
+
+
+.box_1{
+    border: 1px solid black;
+    border-radius: 6px;
+    text-align:center;
+}
+.box_1_items_in_cart{
+    background: lightgrey;
+    text-align:center;
+    font-weight:bold;
+    border-radius:6px;
+    padding:8px 0px 8px 0px;
+}
+.box_1_p {
+    font-weight:bold;
+    border-radius:6px 0px 0px 6px;
+    background-color: rgb(192, 202, 51);
+}
+.box_1_p_2 {
+    font-weight:bold;
+    background: rgb(192, 202, 51);
+}
+.box_1_p_3 {
+    font-weight:bold;
+    border-radius:0px 6px 6px 0px;
+    background: rgb(192, 202, 51);
+}
+.box_1_img {
+    margin: 8px 0px 8px 4px;
+    border-radius: 4px;
+}
+.box_1_Button {
+    border: none;
+    padding: 8px 12px 8px 12px;
+    border-radius: 4px;
+    background-color: rgb(192, 202, 51);
+}
+.box_2{
+    border-radius: 6px;
+    text-align:center;
+    border:1px solid grey;
+}
+.box_2_items_in_cart{
+    background: lightgrey;
+    text-align:center;
+    font-weight:bold;
+    border-radius:6px;
+    padding:8px 0px 8px 0px;
+}
+.checkout-btn{
+    background:rgb(192, 202, 51);
+    margin: 50px 0px 12px 18px;
+    padding:5px 10px 5px 10px;
+    font-weight: bold;
+    border:none;
+    border-radius: 6px;
+}
+
